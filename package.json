@@ -14,6 +14,7 @@
     "@mui/icons-material": "^5.4.2",
     "@mui/material": "^5.4.3",
     "better-react-spinkit": "^2.0.4",
+    "dotenv": "^16.4.5",
     "email-validator": "^2.0.4",
     "firebase": "^9.6.7",
     "moment": "^2.29.1",
